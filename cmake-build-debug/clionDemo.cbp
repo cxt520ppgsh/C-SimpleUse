@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="clionDemo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="clionDemo">
+				<Option output="/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/clionDemo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clionDemo"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="clionDemo/fast">
+				<Option output="/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/clionDemo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clionDemo/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cxt/workspace/project/c++/clionDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/内存/runningMem.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/函数/void.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/判断/if.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/命名空间/namespace.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/备注/head/annotation.h">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/备注/src/annotation.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/字符串/String.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/字符串/char.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/存储类/static.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/容器/vector.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/常量/defile.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/引用/yinyong.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/循环/loop.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/指针/point.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/数据类型/base_data/datatype.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/数据类型/extern/extern1.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/数据类型/extern/extern2.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/数据结构/struct.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/数组/array.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/模板(泛型)/templateClass.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/模板(泛型)/templateVoid.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/运算符/math.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/错误处理/try.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/面向对象/CircleExtend.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/面向对象/Class.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/面向对象/extend.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/面向对象/interface.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/面向对象/multiType.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/面向对象/overload.cpp">
+			<Option target="clionDemo"/>
+		</Unit>
+		<Unit filename="/home/cxt/workspace/project/c++/clionDemo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

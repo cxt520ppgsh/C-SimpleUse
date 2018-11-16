@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C__SimpleUse"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C__SimpleUse">
+				<Option output="/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/C__SimpleUse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/cxt/develop/c++/C-SimpleUse-master/备注/head"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 C__SimpleUse"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C__SimpleUse/fast">
+				<Option output="/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/C__SimpleUse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/cxt/develop/c++/C-SimpleUse-master/备注/head"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 C__SimpleUse/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/内存/runningMem.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/函数/void.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/判断/if.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/命名空间/namespace.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/备注/head/annotation.h">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/备注/src/annotation.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/字符串/String.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/字符串/char.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/存储类/static.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/容器/map.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/容器/vector.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/常量/defile.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/引用/yinyong.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/循环/loop.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/手写线程池/Main.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/手写线程池/Task.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/手写线程池/Thread.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/手写线程池/ThreadPool.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/指针/point.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/指针综合/PointTest.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/数据类型/base_data/datatype.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/数据类型/extern/extern1.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/数据类型/extern/extern2.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/数据结构/struct.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/数组/array.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/模板(泛型)/templateClass.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/模板(泛型)/templateVoid.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/运算符/math.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/错误处理/try.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/面向对象实战/class.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/面向对象实战/main.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/面向对象实战/method.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/面向对象概念/CircleExtend.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/面向对象概念/Class.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/面向对象概念/extend.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/面向对象概念/interface.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/面向对象概念/multiType.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/面向对象概念/overload.cpp">
+			<Option target="C__SimpleUse"/>
+		</Unit>
+		<Unit filename="/Users/cxt/develop/c++/C-SimpleUse-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
