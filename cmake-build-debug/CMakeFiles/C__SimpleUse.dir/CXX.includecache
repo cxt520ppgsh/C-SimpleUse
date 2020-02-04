@@ -6,7 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Users/cxt/develop/c++/C-SimpleUse-master/内存/runningMem.cpp
+/Users/apple/develop/project/c/C-SimpleUse/021模板(泛型)/templateClass.cpp
 iostream
+-
+vector
+-
+cstdlib
+-
+string
+-
+stdexcept
 -
 

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/cxt/develop/c++/C-SimpleUse-master
+# Install script for directory: /Users/apple/develop/project/c/C-SimpleUse
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/cxt/develop/c++/C-SimpleUse-master/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/apple/develop/project/c/C-SimpleUse/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
